@@ -31,3 +31,9 @@ nav ul { /* Add the ul selector nested within a new nav element */
     margin: 0; /* Remove the margin */
     text-align: right; /* Align the unordered list to the right */
 }
+
+nav li { /* Add the li selector */
+    display: inline-block;
+    font-size: 1.75em;
+}
+
