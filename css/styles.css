@@ -7,3 +7,17 @@ File Name:
 body { /* Add the body selector */
     background-color: #ccc; /* Set the background colour */
 }
+
+
+header { /* Add the header selector */
+    width: 25%; /* Set the width of the element */
+    float: left; /* Add a declaration that sets a left float */
+} /* Closing brace for the header selector */
+
+
+nav {
+    width: 70%;
+    float: right;
+    margin: 5em 3em 0 0; /* Set the margin on all sides of the element:display: display:
+    top, right, bottom, left */
+}
