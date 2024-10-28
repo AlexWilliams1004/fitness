@@ -33,6 +33,20 @@ main {
     font-size: 1.25em;
 }
 
+#weights, #cardio, #training { /*Add the hashtagged selectors on the about page */
+    width: 29%;
+    float: left;
+    margin: 0 2%;
+}
+
+#exercises {
+    clear: left;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    background-color: #f2f2f2;
+    padding: 1% 2%;
+}
+
 nav ul { /* Add the ul selector nested within a new nav element */
     list-style-type: none; /* Remove the bullet marker */
     margin: 0; /* Remove the margin */
