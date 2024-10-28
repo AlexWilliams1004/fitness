@@ -28,6 +28,9 @@ nav {
 
 main {
     clear: left; /* Clears a float to the left */
+    background-color: #fff;
+    padding: 2%;
+    font-size: 1.25em;
 }
 
 nav ul { /* Add the ul selector nested within a new nav element */
