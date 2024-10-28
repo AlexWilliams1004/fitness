@@ -25,3 +25,9 @@ nav {
 main {
     clear: left; /* Clears a float to the left */
 }
+
+nav ul { /* Add the ul selector nested within a new nav element */
+    list-style-type: none; /* Remove the bullet marker */
+    margin: 0; /* Remove the margin */
+    text-align: right; /* Align the unordered list to the right */
+}
