@@ -4,6 +4,13 @@ Date: 28/10/24
 File Name:
 */
 
+/* CSS reset */
+body, header, nav, main, footer, h1, div, img, ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
 body { /* Add the body selector */
     background-color: #ccc; /* Set the background colour */
 }
@@ -31,6 +38,12 @@ main {
     background-color: #fff;
     padding: 2%;
     font-size: 1.25em;
+}
+
+.action {
+    font-size: 1.35em;
+    color: #666600;
+    font-weight: bold;
 }
 
 #weights, #cardio, #training { /*Add the hashtagged selectors on the about page */
