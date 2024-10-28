@@ -74,6 +74,15 @@ nav li a { /* Add the nav li a selector */
     text-decoration: none; /* Remove the underline for the nav hyperlinks */
 }
 
+#contact { /* Add the contact information selector */
+    text-align: center;
+}
+
+#contact a {
+    color: #000;
+    text-decoration: none;
+}
+
 footer { /* Add the footer selector */
     font-size: 0.75em;
     text-align: center;
