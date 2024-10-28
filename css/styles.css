@@ -21,3 +21,7 @@ nav {
     margin: 5em 3em 0 0; /* Set the margin on all sides of the element:display: display:
     top, right, bottom, left */
 }
+
+main {
+    clear: left; /* Clears a float to the left */
+}
