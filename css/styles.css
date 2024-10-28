@@ -48,6 +48,13 @@ nav li a { /* Add the nav li a selector */
     display: block;
     color: #fff;
     text-align: center;
-    margin: 0.5em 1em 0.5em 1em;
+    padding: 0.5em 1em 0.5em 1em;
     text-decoration: none; /* Remove the underline for the nav hyperlinks */
+}
+
+footer { /* Add the footer selector */
+    font-size: 0.75em;
+    text-align: center;
+    color: #fff;
+    padding: 0 1em;
 }
