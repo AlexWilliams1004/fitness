@@ -8,6 +8,10 @@ body { /* Add the body selector */
     background-color: #ccc; /* Set the background colour */
 }
 
+img { /* Add the image selector */
+    max-width: 100%;
+    display: block;
+}
 
 header { /* Add the header selector */
     width: 25%; /* Set the width of the element */
