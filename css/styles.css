@@ -58,3 +58,8 @@ footer { /* Add the footer selector */
     color: #fff;
     padding: 0 1em;
 }
+
+footer p a { /* Add the footer link selector */
+    color: #fff;
+    text-decoration: none;
+}
