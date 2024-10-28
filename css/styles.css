@@ -47,6 +47,14 @@ main {
     padding: 1% 2%;
 }
 
+#exercises dt { /*Style the subtitles under exercises (Burpee, plank, and mountain climber) */
+    font-weight: bold;
+}
+
+#exercises dd {
+    padding: 0.5% 1% 2% 0;
+}
+
 nav ul { /* Add the ul selector nested within a new nav element */
     list-style-type: none; /* Remove the bullet marker */
     margin: 0; /* Remove the margin */
